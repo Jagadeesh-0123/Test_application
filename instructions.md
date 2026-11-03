@@ -65,5 +65,3 @@ Ensure coverage captures:
 	• Instructions to spin up the app natively or via Docker Compose.
 	• All the decisions you have taken to complete this project.
     • An architectural breakdown explaining how the background task updates state without causing race conditions or locking the SQLite database during concurrent web reads.
-
-
